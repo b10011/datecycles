@@ -1,10 +1,10 @@
 [tool.poetry]
 name = "datecycles"
-version = "0.1.1"
+version = "0.1.2"
 description = "Simple library for complicated date cycling rules"
 license = "MIT"
 authors = ["Niko Järvinen <nbjarvinen@gmail.com>"]
-readme = "README.rst"
+readme = "README.md"
 homepage = "https://github.com/b10011/datecycles"
 repository = "https://github.com/b10011/datecycles"
 documentation = "https://github.com/b10011/datecycles"
